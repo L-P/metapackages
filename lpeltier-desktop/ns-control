@@ -1,0 +1,10 @@
+Section: misc
+Priority: optional
+Homepage: http://leo-peltier.fr/
+Standards-Version: 3.9.2
+
+Package: lpeltier-desktop
+Version: 0.1
+Maintainer: Léo Peltier <contact@leo-peltier.fr>
+Depends: lpeltier-base, i3, pcmanfm, keepassx, pidgin, aspell-fr, chromium-browser, hunspell-fr, libreoffice, gstm, fonts-inconsolata, cmake, python3, terminator, ttf-mscorefonts-installer, xsel, x11-xserver-utils, vlc, vim-gtk, ufw
+Description: Metapackage for a lightweight i3 desktop.

@@ -1,0 +1,10 @@
+Section: misc
+Priority: optional
+Homepage: http://leo-peltier.fr/
+Standards-Version: 3.9.2
+
+Package: lpeltier-base
+Version: 0.1
+Maintainer: Léo Peltier <contact@leo-peltier.fr>
+Depends: etckeeper, git, htop, keychain, mtr-tiny, ncdu, pv, tree, vim-nox, zsh, build-essential, python3, mailutils
+Description: Metapackage for basic software I need installed on every machine.
