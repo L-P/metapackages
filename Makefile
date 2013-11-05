@@ -1,5 +1,8 @@
 all: lpeltier-base lpeltier-desktop
-.PHONY: sign lpeltier-base lpeltier-desktop
+.PHONY: clean sign lpeltier-base lpeltier-desktop
+
+clean:
+	rm -rf builds
 
 sign:
 	dpkg-sig --sign builder builds/*.deb
