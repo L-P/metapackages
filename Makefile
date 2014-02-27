@@ -1,5 +1,5 @@
-all: lpeltier-base lpeltier-desktop
-.PHONY: clean sign lpeltier-base lpeltier-desktop
+all: lpeltier-base lpeltier-desktop lpeltier-base-extra
+.PHONY: clean sign lpeltier-base lpeltier-desktop lpeltier-base-extra
 
 clean:
 	rm -rf builds
@@ -12,6 +12,10 @@ builds:
 
 lpeltier-base: builds
 	equivs-build lpeltier-base/ns-control
+	mv lpeltier-*.* builds
+
+lpeltier-base-extra: builds
+	equivs-build lpeltier-base-extra/ns-control
 	mv lpeltier-*.* builds
 
 lpeltier-desktop: builds

@@ -4,7 +4,7 @@ Homepage: http://leo-peltier.fr/
 Standards-Version: 3.9.2
 
 Package: lpeltier-base
-Version: 0.10
+Version: 0.11
 Maintainer: Léo Peltier <contact@leo-peltier.fr>
-Depends: build-essential, cmake, devscripts, dpkg-sig, equivs, etckeeper, git, gnupg-agent, htop, keychain, mailutils, mtr-tiny, ncdu, p7zip, pv, python-pygments, python3, reprepro, tmux, tree, units, unrar-free, unzip, vim-nox, whois, yajl-tools, zsh
+Depends: git, gnupg-agent, htop, keychain, mtr-tiny, ncdu, pv, tmux, tree, units, vim-nox, yajl-tools, zsh
 Description: Metapackage for basic software I need installed on every machine.
