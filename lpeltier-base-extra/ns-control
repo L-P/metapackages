@@ -4,8 +4,8 @@ Homepage: http://leo-peltier.fr/
 Standards-Version: 3.9.2
 
 Package: lpeltier-base-extra
-Version: 0.3
+Version: 0.4
 Architecture: all
 Maintainer: Léo Peltier <contact@leo-peltier.fr>
-Depends: lpeltier-base, build-essential, cmake, devscripts, dpkg-sig, equivs, etckeeper, mailutils, makeself, p7zip, python-pygments, python3, reprepro, unrar-free, unzip, whois
+Depends: lpeltier-base, build-essential, cmake, devscripts, dpkg-sig, equivs, etckeeper, mailutils, makeself, p7zip, python-pygments, python3, reprepro, unrar-free, unzip, whois, woof
 Description: Extra packages for dev.
