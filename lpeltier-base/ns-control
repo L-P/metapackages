@@ -4,8 +4,8 @@ Homepage: http://leo-peltier.fr/
 Standards-Version: 3.9.2
 
 Package: lpeltier-base
-Version: 0.14
+Version: 0.15
 Architecture: all
 Maintainer: Léo Peltier <contact@leo-peltier.fr>
-Depends: curl, git, htop, keychain, mtr-tiny, ncdu, pv, tmux, tree, units, vim-nox, yajl-tools, zsh
+Depends: curl, git, htop, keychain, mtr-tiny, ncdu, tmux, tree, vim-nox, yajl-tools, zsh
 Description: Metapackage for basic software I need installed on every machine.
