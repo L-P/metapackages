@@ -4,8 +4,11 @@ Homepage: http://leo-peltier.fr/
 Standards-Version: 3.9.2
 
 Package: lpeltier-desktop
-Version: 0.10
+Version: 0.11
 Architecture: all
 Maintainer: Léo Peltier <contact@leo-peltier.fr>
-Depends: lpeltier-base, lpeltier-base-extra, aspell-fr, chromium-browser, enigmail, fonts-inconsolata, gdebi, gparted, gstm, gtk-redshift, hunspell-fr, i3, keepassx, libreoffice, pidgin, scrot, terminator, ttf-mscorefonts-installer, ufw, vim-gtk, vlc, x11-xserver-utils, xsel, xul-ext-lightning
+Depends: lpeltier-base, lpeltier-base-extra, aspell-fr, chromium-browser,
+enigmail, fonts-inconsolata, gdebi, gparted, gstm, gtk-redshift, hunspell-fr,
+i3, keepassx, libreoffice, pidgin, scrot, terminator,
+ttf-mscorefonts-installer, ufw, vim-gtk, vlc, x11-xserver-utils, xsel, xul-ext-lightning, youtube-dl
 Description: Metapackage for a lightweight i3 desktop.
