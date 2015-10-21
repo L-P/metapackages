@@ -4,8 +4,8 @@ Homepage: http://leo-peltier.fr/
 Standards-Version: 3.9.2
 
 Package: lpeltier-base-extra
-Version: 1.1.0
+Version: 1.2.0
 Architecture: all
 Maintainer: Léo Peltier <contact@leo-peltier.fr>
-Depends: build-essential, cmake, devscripts, dos2unix, dpkg-sig, equivs, etckeeper, gitstats, gnupg-agent, hledger, lpeltier-base, mailutils, makeself, nfs-kernel-server, nodejs, nodejs-legacy, npm, optipng, p7zip, pv, python-pygments, python3, reprepro, sshfs, units, unrar-free, unzip, w3m, whois, woof
+Depends: build-essential, cmake, devscripts, dos2unix, dpkg-sig, equivs, etckeeper, gitstats, gnupg-agent, hledger, lpeltier-base, mailutils, makeself, nfs-kernel-server, nodejs, nodejs-legacy, npm, optipng, p7zip, php5-cli, python-pygments, python3, reprepro, sshfs, units, unrar-free, unzip, w3m, whois, woof
 Description: Extra packages for dev.
