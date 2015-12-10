@@ -4,8 +4,8 @@ Homepage: http://leo-peltier.fr/
 Standards-Version: 3.9.2
 
 Package: lpeltier-base-extra
-Version: 1.5.2
+Version: 1.6.0
 Architecture: all
 Maintainer: Léo Peltier <contact@leo-peltier.fr>
-Depends: ansible, build-essential, cmake, devscripts, doc-rfc, dos2unix, dpkg-sig, equivs, etckeeper, gitstats, gnupg-agent, golang, golang-doc, golang-golang-x-tools, hledger, libboost-all-dev, lpeltier-base, mailutils, makeself, nfs-kernel-server, nodejs, nodejs-legacy, npm, optipng, p7zip, php-codesniffer, php5-cli, php5-imagick, php5-mysql, php5-readline, php5-sqlite, php5-xdebug, python-pygments, python3, reprepro, sshfs, units, unrar-free, unzip, vagrant, virtualbox, w3m, whois, woof
+Depends: ansible, apache2-utils, build-essential, cmake, devscripts, doc-rfc, dos2unix, dpkg-sig, equivs, etckeeper, gitstats, gnupg-agent, golang, golang-doc, golang-golang-x-tools, hledger, libboost-all-dev, lpeltier-base, mailutils, makeself, nfs-kernel-server, node-marked, nodejs, nodejs-legacy, npm, optipng, p7zip, php-codesniffer, php5-cli, php5-curl, php5-imagick, php5-mysql, php5-pgsql, php5-readline, php5-sqlite, php5-xdebug, postgresql-client, python-pygments, python3, reprepro, sshfs, sshpass, units, unrar-free, unzip, vagrant, virtualbox, w3m, whois, woof
 Description: Extra packages for dev.
