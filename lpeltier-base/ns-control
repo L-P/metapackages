@@ -1,6 +1,6 @@
 Section: misc
 Priority: optional
-Homepage: http://leo-peltier.fr/
+Homepage: https://leo-peltier.fr/
 Standards-Version: 3.9.2
 
 Package: lpeltier-base
