@@ -4,8 +4,8 @@ Homepage: https://leo-peltier.fr/
 Standards-Version: 3.9.2
 
 Package: lpeltier-desktop
-Version: 1.2.0
+Version: 1.3.0
 Architecture: all
 Maintainer: Léo Peltier <contact@leo-peltier.fr>
-Depends: aspell-fr, chromium-browser, enigmail, fonts-inconsolata, gimp, gimp-plugin-registry, gparted, gstm, gtk-redshift, hunspell-fr, i3, keepassx, libreoffice, lpeltier-base, lpeltier-base-extra, network-manager-openvpn, pidgin, quiterss, scrot, ttf-mscorefonts-installer, ufw, vim-gtk, vlc, x11-xserver-utils, xsel, xul-ext-lightning, youtube-dl
+Depends: aspell-fr, chromium-browser, enigmail, fonts-inconsolata, gimp, gimp-plugin-registry, gparted, gstm, gtk-redshift, hunspell-fr, i3, keepassx, libreoffice, lpeltier-base, lpeltier-base-extra, network-manager-openvpn, network-manager-openvpn-gnome, pidgin, quiterss, scrot, ttf-mscorefonts-installer, ufw, vim-gtk, vlc, x11-xserver-utils, xsel, xul-ext-lightning, youtube-dl
 Description: Metapackage for a lightweight i3 desktop.
