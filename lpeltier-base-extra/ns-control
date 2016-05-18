@@ -4,8 +4,8 @@ Homepage: https://leo-peltier.fr/
 Standards-Version: 3.9.2
 
 Package: lpeltier-base-extra
-Version: 1.9.0
+Version: 1.10.0
 Architecture: all
 Maintainer: Léo Peltier <contact@leo-peltier.fr>
-Depends: ansible, apache2-utils, build-essential, cmake, composer, devscripts, doc-rfc, dos2unix, dpkg-sig, equivs, gitstats, gnupg-agent, golang, golang-doc, golang-golang-x-tools, hledger, libboost-all-dev, lpeltier-base, mailutils, makeself, nfs-kernel-server, node-marked, nodejs, nodejs-legacy, npm, optipng, p7zip, php-codesniffer, php7.0-cli, php7.0-curl, php7.0-mysql, php7.0-pgsql, php7.0-readline, php7.0-sqlite3, postgresql-client, python-pygments, python3, reprepro, sshfs, sshpass, units, unrar-free, unzip, vagrant, virtualbox, w3m, whois, woof
+Depends: ansible, apache2-utils, build-essential, cmake, composer, devscripts, doc-rfc, dos2unix, dpkg-sig, equivs, gitstats, gnupg-agent, golang, golang-doc, golang-golang-x-tools, hledger, libboost-all-dev, lpeltier-base, mailutils, makeself, nfs-kernel-server, node-marked, nodejs, nodejs-legacy, npm, optipng, p7zip, php-codesniffer, php-imagick, php-xdebug, php7.0-cli, php7.0-curl, php7.0-mysql, php7.0-pgsql, php7.0-readline, php7.0-sqlite3, postgresql-client, python-pygments, python3, reprepro, sshfs, sshpass, units, unrar-free, unzip, vagrant, virtualbox, w3m, whois, woof
 Description: Extra packages for dev.
